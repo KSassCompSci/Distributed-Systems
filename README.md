@@ -4,15 +4,15 @@ Coursework and assignments exploring how distributed applications communicate, s
 
 **Tech Stack:** Java • Networking • Concurrency • Fault Tolerance
 
-### Project Highlights for Production Support:
-* **System Reliability:** Implemented mechanisms to handle network timeouts, retries, and node failures, ensuring system stability under stress.
-* **Concurrency Control:** Managed multi-threaded processes and race conditions, mirroring real-world application server environments.
-* **Client-Server Communication:** Built robust message-passing protocols essential for troubleshooting connectivity between distributed services.
-
 ## What this repository demonstrates
 - Understanding **distributed failure modes** (latency, partial failure, timeouts)
 - Reasoning about **concurrency**, coordination, and consistency
 - Debugging mindset for multi-component systems (client/server patterns)
+
+### Project Highlights for Production Support:
+* **System Reliability:** Implemented mechanisms to handle network timeouts, retries, and node failures, ensuring system stability under stress.
+* **Concurrency Control:** Managed multi-threaded processes and race conditions, mirroring real-world application server environments.
+* **Client-Server Communication:** Built robust message-passing protocols essential for troubleshooting connectivity between distributed services.
 
 ## Topics covered (typical)
 - Networking fundamentals, RPC/message passing
